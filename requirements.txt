@@ -1,0 +1,13 @@
+# https://github.com/w13b3/SSIM-py
+#
+# Python version used:
+# '3.6.8 (default, Oct  7 2019, 12:59:55)
+# [GCC 8.3.0]'
+#
+# requirements.txt
+# install requirements for SSIM-py with the following command:
+# pip install -r requirements.txt
+#
+Pillow >= 6.2.0
+numpy >= 1.17.3
+opencv_python >= 4.1.1.26
