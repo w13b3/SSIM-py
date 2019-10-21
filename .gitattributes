@@ -23,6 +23,9 @@
 # Jupyter notebook
 *.ipynb  text
 
+# Ignore everything in tests
+/tests* linguist-vendored
+
 # Note: .db, .p, and .pkl files are associated
 # with the python modules ``pickle``, ``dbm.*``,
 # ``shelve``, ``marshal``, ``anydbm``, & ``bsddb``
